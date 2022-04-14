@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/popup-window-react/static/css/main.58f5f3e5.css",
+    "main.js": "/popup-window-react/static/js/main.7f4a358c.js",
+    "static/media/nft.jpg": "/popup-window-react/static/media/nft.9f04183d1c2ebbec8311.jpg",
+    "index.html": "/popup-window-react/index.html",
+    "main.58f5f3e5.css.map": "/popup-window-react/static/css/main.58f5f3e5.css.map",
+    "main.7f4a358c.js.map": "/popup-window-react/static/js/main.7f4a358c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.58f5f3e5.css",
+    "static/js/main.7f4a358c.js"
+  ]
+}
